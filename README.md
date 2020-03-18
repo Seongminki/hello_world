@@ -1,3 +1,3 @@
 # hello_world
-test repository
+test repository\n
 public int IQ;
